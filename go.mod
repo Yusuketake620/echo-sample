@@ -1,4 +1,4 @@
-module github.com/Yusuketake620/echo-sample
+module github.com/yutak03/echo-sample
 
 go 1.21.5
 
